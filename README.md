@@ -8,7 +8,7 @@ This is a simple telegram bot with which you can get information about galaxies,
  * Python (3.9);
  * PyTelegramBotApi (Telegram Bot framework v. 4.8.0);
  * Python-telegram-bot-calendar(calendar v. 1.0.5);
- * Googletrans (gogle tarnslate module v. 3.1.0a0);
+ * Googletrans (google translate module v. 3.1.0a0);
 
 ## Токены - Tokens
  * Зарегистрируйтесь на сайте api.nasa. [Ссылка](https://api.nasa.gov) и получите свой персональный токен.
